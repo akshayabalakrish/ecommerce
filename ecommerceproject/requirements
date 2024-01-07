@@ -1,0 +1,10 @@
+asgiref==3.7.2
+asttokens==2.4.1
+cheap-repr==0.5.1
+Django==5.0.1
+executing==2.0.1
+pillow==10.2.0
+Pygments==2.17.2
+six==1.16.0
+snoop==0.4.3
+sqlparse==0.4.4
